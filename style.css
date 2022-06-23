@@ -3,9 +3,9 @@
     font-family: 'Roboto Mono', monospace;
 }
 body {
-    background: #136A8A;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #267871, #136A8A);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #267871, #136A8A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #136A8A;  
+    background: -webkit-linear-gradient(to right, #267871, #136A8A); 
+    background: linear-gradient(to right, #267871, #136A8A); 
     padding:0;
     margin:0;
     }
@@ -16,8 +16,8 @@ body {
     margin:100px auto;
     text-align:center;
     background:#4B79A1;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  
+    background: linear-gradient(to right, #283E51, #4B79A1); 
     box-shadow:0px 0px 6px 0px #0006;
     border-radius: 15px;
     }
@@ -46,8 +46,8 @@ body {
     outline:none;
     border:none;
     background: #ADA996;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+background: linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
     }
     .containerButtons {
     position:relative;
